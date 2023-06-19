@@ -12,7 +12,7 @@
 
   <groupId>io.github.crac.io.vertx</groupId>
   <artifactId>vertx-grpc-parent</artifactId>
-  <version>4.3.8</version>
+  <version>4.3.8.CRAC.0</version>
 
   <distributionManagement>
     <snapshotRepository>
@@ -28,7 +28,7 @@
   <properties>
     <stack.version>4.3.8</stack.version>
     <doc.skip>true</doc.skip>
-    <forked.version>TO-BE-SET</forked.version>
+    <forked.version>4.3.8</forked.version>
   </properties>
 
   <dependencyManagement>
